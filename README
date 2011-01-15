@@ -1,0 +1,5 @@
+Presentation from November 2010 meeting of Donetsk coffee'n'code.
+
+To create PDF file run:
+
+    rst2pdf slides.rst -b1 -s dejavu,slides.style,align.style

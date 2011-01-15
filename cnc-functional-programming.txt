@@ -1,0 +1,2 @@
+http://habrahabr.ru/blogs/python/111588/
+find -name "*.py" | xargs grep filter
